@@ -62,7 +62,7 @@ Once completed, the Streamlit app will allow users to input portfolio parameters
 
 ## 🤝 Contributing
 
-Contributions, suggestions, and feedback are welcome! Feel free to fork this repository and submit a pull request.
+Contributions, suggestions, and feedback are welcome!
 
 ---
 
