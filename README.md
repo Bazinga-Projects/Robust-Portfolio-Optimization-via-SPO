@@ -58,16 +58,4 @@ Once completed, the Streamlit app will allow users to input portfolio parameters
 * Improve model robustness and scalability
 * Add logging, monitoring, and experiment tracking
 
----
 
-## 🤝 Contributing
-
-Contributions, suggestions, and feedback are welcome!
-
----
-
-## ⭐ Acknowledgements
-
-Thanks to the open-source community and all the libraries that made this project possible.
-
-If you find this project useful, don’t forget to ⭐ the repository!
