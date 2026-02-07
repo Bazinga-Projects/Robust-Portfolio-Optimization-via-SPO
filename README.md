@@ -50,27 +50,6 @@ Once completed, the Streamlit app will allow users to input portfolio parameters
 
 ---
 
-## ▶️ How to Run the Project (Current)
-
-1. Clone the repository
-
-   ```bash
-   git clone https://github.com/your-username/robust-portfolio-optimization-via-spo.git
-   ```
-2. Navigate to the project directory
-
-   ```bash
-   cd robust-portfolio-optimization-via-spo
-   ```
-3. Open the Jupyter Notebook
-
-   ```bash
-   jupyter notebook
-   ```
-4. Run all cells in `Project_1.ipynb`
-
----
-
 ## 📈 Future Enhancements
 
 * Build and integrate the Streamlit frontend
